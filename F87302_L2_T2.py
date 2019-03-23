@@ -1,3 +1,5 @@
+# Check if two strings are anagrams (have the same letters).
+
 import sys
 
 args = sys.argv[:]

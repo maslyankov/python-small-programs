@@ -1,3 +1,5 @@
+# Encrypt a string using Cesar's cipher.
+
 import sys
 
 plain = sys.argv[1]

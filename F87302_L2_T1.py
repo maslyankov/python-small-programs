@@ -1,3 +1,5 @@
+# Check if a list is sorted or not.
+
 import sys
 
 numbers = list(sys.argv[1:])

@@ -1,3 +1,5 @@
+# Order items in a list and print them out.
+
 import sys
 
 numbers = sys.argv[:]

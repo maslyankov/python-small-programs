@@ -1,3 +1,5 @@
+# Check a list if it has only unique numbers or not.
+
 import sys
 
 numbers = list(sys.argv[1:])
